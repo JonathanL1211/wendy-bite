@@ -1,0 +1,61 @@
+body {
+	background-color: #515050;
+	border: 3px solid grey;
+	color: white;
+	height: 100%;
+}
+
+hr {
+	border-top: 1px solid #bababa;
+  width: 90%;
+  opacity: 0.5;
+  margin-top: 25px;
+}
+
+img{
+	float: right;
+	border-style: ridge;
+	border-width: 7px;
+	margin: 0 20px;
+	border-color: #8C8E8C;
+}
+
+#footerhr {
+	border-top: 1px solid #bababa;
+  width: 90%;
+  opacity: 0.5;
+}
+
+.mainContent p {
+	margin-left: 20px;
+}
+
+.headerPage {
+  display: block;
+	text-align: center;
+  margin-top: 70px;
+  font-size: 20px;
+}
+
+.headerPage h1{
+  font-style: italic;
+}
+
+.active {
+	text-decoration: none;
+	color: white;
+}
+
+.resume{
+	color: #6BF08F;
+}
+
+.mainContent h2 {
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+.footer {
+	text-align: center;
+	margin-bottom: 30px;
+}
